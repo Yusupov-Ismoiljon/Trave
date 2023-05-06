@@ -4,16 +4,10 @@ module.exports = {
   theme: {
     extend: {
       maxWidth: {
-        'max-w': ['1400px']
+        contener: '1440px',
       },
       fontFamily: {
-        'montserrat': ['Montserrat', 'sans-serif']
-      },
-      margin: {
-        'mb':['57px']
-      },
-      borderRadius: {
-        'radius': ['100px']
+        'ibm': ['IBM Plex Serif', 'serif']
       },
     },
   },
