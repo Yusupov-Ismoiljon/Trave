@@ -1,3 +1,4 @@
 if (confirm("Sayitga kirmoqchimisiz ?")) {
-    ism = prompt("Ismingizni kiriting")
+    ism = prompt("Ismingizni kiriting");
+    alert('salom ' + ism);
 }
