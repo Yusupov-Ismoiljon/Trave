@@ -1,1 +1,3 @@
-if
+if (confirm("Sayitga kirmoqchimisiz ?")) {
+    
+}
